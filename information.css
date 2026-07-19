@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: orangered;
+  font-size: xx-large;
+  font-family: "player display", serif;
+}
+h1 {
+  height: 100px;
+  background-color: orangered;
+  text-align: center;
+  margin: auto;
+  padding-top: 50px;
+}
+p {
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
